@@ -13,5 +13,6 @@ Mempelajari WireShark
 
 ## Lampiran
 Hasil Percobaan:
-![Hasil Percobaan](...asset/week1a.png)
+![Hasil Percobaan](...https://github.com/AfiyaNadifa/afiya-prakJARKOM/blob/main/asset/week1a.png)
+
 
